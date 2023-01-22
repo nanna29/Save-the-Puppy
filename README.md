@@ -1,2 +1,3 @@
 # Save-the-Puppy
-간단한 게임을 통해 강아지 사료를 구하는 프로그램
+A program to get dog food through a simple game
+[StDGame_Manual.pdf](https://github.com/nanna29/Save-the-Puppy/files/10474934/StDGame_Manual.pdf)
